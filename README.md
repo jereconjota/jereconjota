@@ -30,11 +30,11 @@ I'm a developer from Argentina. I'm passionate about technology and I'm currentl
 
 <br />
 
-<img align="right" alt="profile pic" src="./assets/banner.jpg" width="180px" />
+<img align="right" alt="profile pic" src="./assets/banner.jpg" width="199px" />
 
 <br />
 
-## What i'm up to
+### What i'm up to
 
 - 🔭 I’m currently working @[YopitPago](https://yopitpago.com/).
 - 🌱 I’m currently working with [NestJS](https://nestjs.com/).
