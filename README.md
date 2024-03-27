@@ -38,7 +38,7 @@ I'm a developer from Argentina. I'm passionate about technology and I'm currentl
 
 - 🔭 I’m currently working @[YopitPago](https://yopitpago.com/).
 - 🌱 I’m currently working with [NestJS](https://nestjs.com/).
-- 🧩 I’m currently learning [TypeScript](https://www.typescriptlang.org/) and [Next.js](https://nextjs.org).
+- 🧩 I’m currently learning [kotlin](https://kotlinlang.org/).
 
 <br />
 
