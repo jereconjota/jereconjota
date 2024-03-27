@@ -30,7 +30,7 @@ I'm a developer from Argentina. I'm passionate about technology and I'm currentl
 
 <br />
 
-<img align="right" alt="profile pic" src="./assets/banner.jpg" width="199px" />
+<img align="right" alt="profile pic" src="./assets/banner.jpg" width="180px" />
 
 <br />
 
