@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 ## Hi there 👋 I'm [Jere](https://jereconjota.com)
 I'm a developer from Argentina. I'm passionate about technology and I'm currently trying to learn a little bit more every day.
 
+
 <br/>
 
 <a href="https://twitter.jereconjota.com">
@@ -28,28 +29,40 @@ I'm a developer from Argentina. I'm passionate about technology and I'm currentl
 <img align="left" alt="Jere Figueroa Instagram" width="32px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
 </a>
 
+<!--
 <br />
 
-<img align="right" alt="profile pic" src="./assets/banner.jpg" width="180px" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.jereconjota.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-1877F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.jereconjota.com/)
+[![E-Mail](https://img.shields.io/badge/Email-006aff?style=for-the-badge&logo=maildotru&logoColor=white&color=red)](mailto:jeremiasfigueroa69@gmail.com)
+-->
+<br />
+
+<img align="right" alt="profile pic" src="./assets/perfil3.jpeg" width="210px" />
 
 <br />
 
 ### What i'm up to
 
-- 🔭 I’m currently working @[YopitPago](https://yopitpago.com/).
-- 🌱 I’m currently working with [NestJS](https://nestjs.com/).
+- 🔭 I’m currently working [Autoinspector](https://autoinspector.com.ar/).
+- 🌱 I’m currently working with [NestJS](https://nestjs.com/) & [NextJS](https://nextjs.org/)
+<!--
 - 🧩 I’m currently learning [kotlin](https://kotlinlang.org/).
-
+-->
 <br />
 
 ## Languages and Tools
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="27" src="https://nestjs.com/logo-small.ede75a6b.svg"></code>
+<code><img height="27" src="https://nestjs.com/logo-small-gradient.76616405.svg"></code>
 <code><img height="27" src="https://nextjs.org/favicon.ico"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<!--
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+-->
 ---
+
+<!-- <a href="https://github.com/jereconjota/github-readme-stats" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiammaMuscari&layout=compact&theme=jolly&hide_border=true" /></a> -->
