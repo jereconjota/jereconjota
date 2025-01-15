@@ -25,9 +25,9 @@ I'm a developer from Argentina. I'm passionate about technology and I'm currentl
 <a href="https://linkedin.jereconjota.com">
 <img align="left" alt="Jere Figueroa LinkedIN" width="32px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
-<a href="https://instagram.jereconjota.com">
+<!-- <a href="https://instagram.jereconjota.com">
 <img align="left" alt="Jere Figueroa Instagram" width="32px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
-</a>
+</a> -->
 
 <!--
 <br />
