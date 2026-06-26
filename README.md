@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-## Hi there 👋 I'm [Jere](https://jereconjota.com)
+## Hi there 👋 I'm [Jere](https://jereconjota.dev)
 I'm a developer from Argentina. I'm passionate about technology and I'm currently trying to learn a little bit more every day.
 
 
@@ -44,7 +44,7 @@ I'm a developer from Argentina. I'm passionate about technology and I'm currentl
 
 ### What i'm up to
 
-- 🔭 I’m currently working [Autoinspector](https://autoinspector.com.ar/).
+- 🔭 I’m currently working [Ravel](https://www.letsravel.us/).
 - 🌱 I’m currently working with [NestJS](https://nestjs.com/) & [NextJS](https://nextjs.org/)
 <!--
 - 🧩 I’m currently learning [kotlin](https://kotlinlang.org/).
