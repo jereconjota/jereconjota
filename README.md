@@ -19,10 +19,10 @@ I'm a developer from Argentina. I'm passionate about technology and I'm currentl
 
 <br/>
 
-<a href="https://twitter.jereconjota.com">
+<!-- <a href="https://twitter.jereconjota.com">
 <img align="left" alt="Jere Figueroa Twitter" width="32px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
-</a>
-<a href="https://linkedin.jereconjota.com">
+</a> -->
+<a href="https://www.linkedin.com/in/jereconjota/">
 <img align="left" alt="Jere Figueroa LinkedIN" width="32px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
 <!-- <a href="https://instagram.jereconjota.com">
